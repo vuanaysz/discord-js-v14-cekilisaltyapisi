@@ -43,6 +43,4 @@ Proje [MIT Lisansı](https://github.com/omarfaruyk/discord-js-v14-cekilis-altyap
 
 ## Destek
 
-Discord: [Faruk#6126](https://discord.com/users/713215681377599531)
-
-[![Faruk#6126](https://discord.c99.nl/widget/theme-3/713215681377599531.png)](https://discord.com/users/713215681377599531)
+Discord: [.vuanays]
